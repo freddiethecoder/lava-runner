@@ -1,2 +1,2 @@
-# lava-runner
-.,
+# project-game-runner
+.
